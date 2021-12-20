@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="1440" alt="cover" src="https://user-images.githubusercontent.com/12343599/146720872-d4cd7c4d-4e97-4b63-86a2-9eb2929647cd.png"/>
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

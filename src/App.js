@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+      	<div className="bg-[#bbbdf6] font-bold text-4xl text-gray-800 px-4 py-2 rounded-lg mt-5">{'TailwindCSS 3.0 is awesome !'}</div>
       </header>
     </div>
   );
